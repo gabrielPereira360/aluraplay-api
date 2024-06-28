@@ -1,5 +1,4 @@
-{
-  "videos": [
+[
     {
       "id": 1,
       "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
@@ -91,5 +90,4 @@
       "imagem": "https://i.ytimg.com/vi/F63h3v9QV7w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApBV5huc5UXBlsWuKyKTsJ0rfLjA",
       "id": 13
     }
-  ]
-}
+]  
